@@ -1,0 +1,40 @@
+# Core
+pandas
+numpy
+scikit-learn
+joblib
+tqdm
+python-dotenv
+
+# Data sources
+fredapi
+yfinance
+newsapi-python
+requests
+
+# NLP - FinBERT
+torch
+transformers
+
+# Time Series & Stats
+statsmodels
+pmdarima
+xgboost
+
+# Optimization & Tracking
+optuna
+mlflow
+
+# Visualization & Dashboard
+streamlit
+plotly
+matplotlib
+seaborn
+
+# Explainability
+shap
+captum
+
+# Utilities
+beautifulsoup4
+lxml
